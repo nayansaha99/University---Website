@@ -7,9 +7,6 @@ This project is a University Management Website built using WordPress and Elemen
 📁 Google Drive (Project Files & Documentation):
 👉 https://drive.google.com/drive/folders/1lK7_0f_4LqLwuSsvU9d8PrArIkFgRjpE
 
-## 🌐 Live Website (if available):
-(Not Provided)
-
 ## 🚀 Features
 🏫 Department & Faculty Management
 Dedicated Department Pages

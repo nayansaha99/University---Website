@@ -1,22 +1,22 @@
-🎓 University Management Website
+##🎓 University Management Website
 📌 Overview
 
 This project is a University Management Website built using WordPress and Elementor Pro. It provides a centralized platform for students, faculty members, and administrators to access academic and administrative information efficiently.
 
-🔗 Project Resources
+##🔗 Project Resources
 📁 Google Drive (Project Files & Documentation):
 👉 https://drive.google.com/drive/folders/1lK7_0f_4LqLwuSsvU9d8PrArIkFgRjpE
 
-🌐 Live Website (if available):
+## 🌐 Live Website (if available):
 (Not Provided)
 
-🚀 Features
+## 🚀 Features
 🏫 Department & Faculty Management
 Dedicated Department Pages
 Individual Faculty Pages
 Admin option to create new department portals
 
-🔐 Authentication System
+## 🔐 Authentication System
 Login system for:
 Students
 Employees
@@ -25,17 +25,17 @@ Aivus accounts
 Gmail
 Moodle
 
-📚 Library Portal
+## 📚 Library Portal
 Easy access to library information
 Designed for both students and visitors
 
-🎓 Convocation Portal
+## 🎓 Convocation Portal
 Provides convocation schedules and updates
 
-📝 Admission Portal
+## 📝 Admission Portal
 Centralized admission-related information
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 WordPress
 Elementor Pro
 HTML5
@@ -48,12 +48,12 @@ Manage departments and faculty
 Update portal content
 Control user access
 
-🎯 Purpose
+##🎯 Purpose
 Simplify university information access
 Improve management efficiency
 Provide a centralized digital system
 
-University-Management-Website/
+## University-Management-Website/
 │
 ├── README.md
 ├── documentation/
